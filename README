@@ -5,7 +5,7 @@ I18nSyncSimpleToActiveRecord
 
 and
 
-  rake translations:activerecord:sync
+  rake translations:activerecord:load
   
 (or both: rake translations:activerecord:sync)
 
