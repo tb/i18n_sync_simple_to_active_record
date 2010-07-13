@@ -1,13 +1,12 @@
 I18nSyncSimpleToActiveRecord
 ============================
 
-Introduction goes here.
+  rake translations:activerecord:clean
 
+and
 
-Example
-=======
+  rake translations:activerecord:sync
+  
+(or both: rake translations:activerecord:sync)
 
-Example goes here.
-
-
-Copyright (c) 2010 [name of plugin creator], released under the MIT license
+Copyright (c) 2010 Tomasz Bak, released under the MIT license
